@@ -22,7 +22,7 @@ Before running or building the project, make sure you have the following install
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/CalculatorMavenProject.git
+git clone git@github.com:drkjavier/CalculatorMavenProject.git
 cd CalculatorMavenProject
 ```
 
